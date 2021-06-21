@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ohhondgi.github.io/sitemap.xml
