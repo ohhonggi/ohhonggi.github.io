@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://ohhondgi.github.io/blog/firstPosting/</loc>
-<lastmod>2021-06-22T00:00:00+09:00</lastmod>
+<lastmod>2021-06-24T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://ohhondgi.github.io/about/</loc>
 </url>
 <url>
 <loc>https://ohhondgi.github.io/categories/</loc>
@@ -15,5 +18,13 @@
 </url>
 <url>
 <loc>https://ohhondgi.github.io/year-archive/</loc>
+</url>
+<url>
+<loc>https://ohhondgi.github.io/googleb573fdf310cc2ec1.html</loc>
+<lastmod>2021-06-22T16:28:52+09:00</lastmod>
+</url>
+<url>
+<loc>https://ohhondgi.github.io/naver1d7380562d9cd185a4b98664afef4df3.html</loc>
+<lastmod>2021-06-22T18:41:19+09:00</lastmod>
 </url>
 </urlset>

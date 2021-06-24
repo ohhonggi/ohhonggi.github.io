@@ -1,3 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-06-22T15:40:06+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">포스팅 테스트</title><link href="https://ohhondgi.github.io/blog/firstPosting/" rel="alternate" type="text/html" title="포스팅 테스트" /><published>2021-06-22T00:00:00+09:00</published><updated>2021-06-22T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/firstPosting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/firstPosting/">&lt;center&gt;
-&lt;img data-action=&quot;zoom&quot; src=&quot;/assets/images/AI_image_sample.jpeg&quot; alt=&quot;AI image&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-06-24T14:55:13+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">모각코 plan</title><link href="https://ohhondgi.github.io/blog/firstPosting/" rel="alternate" type="text/html" title="모각코 plan" /><published>2021-06-22T00:00:00+09:00</published><updated>2021-06-24T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/firstPosting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/firstPosting/">&lt;center&gt;
+&lt;body&gt;
+    &lt;div style=&quot;text-align: left&quot;&gt;
+        &lt;h3&gt;
+            &lt;p&gt;목표: full-stack developer가 되기 위한 공부&lt;/p&gt;
+            &lt;p&gt;팀장: 박상현 / 팀원: 오홍기, 유건열, 김영현, 김남호&lt;/p&gt;
+            &lt;p&gt;활동 기간: 2021.06.30(수) ~  2021.08.19(월) 중 6회 이상&lt;/p&gt;
+        &lt;/h3&gt;
+            &lt;ol start=&quot;1&quot;&gt;
+                &lt;li&gt;html, css 기초 다지기&lt;/li&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt; 사용언어: html, css &lt;/li&gt;
+                        &lt;li&gt; 공부 방법: DB과제를 통해 경험한 html과 css를 기반으로 기초 다지기&lt;/li&gt;
+                        &lt;li&gt; 공부 내용: html 문법, js 문법, oracle DB 연동 &lt;/li&gt;
+                        &lt;li&gt; 목표:간단한 웹페이지 만들기&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;li&gt;full-stack 프로젝트 기록 및 복습&lt;/li&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt; 실리콘 벨리 계획서를 기반으로 한 공부기록 blog에 작성 및 복습 &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;li&gt;계획&lt;/li&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt; 1차: html 문법 공부 1시간 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 2차: html 문법 공부 1시간 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 3차: css 문법 공부 1시간 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 4차: css 문법 공부 1시간 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 5차: DB 연동 및 동기화 시행 1시간 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 6차: 웹페이지 작성 + blog 작성 및 복습 2시간 &lt;/li&gt;
+                        &lt;li&gt; 7차: ~ 추후 세부화&lt;/li&gt;
+                    &lt;/ul&gt;
+            &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+
+
+
+
 &lt;/center&gt;</content><author><name>Oh Hong Gi</name></author><category term="Blog" /><category term="Blog" /><category term="jekyll" /><category term="github" /><category term="git" /><summary type="html">md 파일로 github blog의 첫 posting 만들기</summary></entry></feed>
