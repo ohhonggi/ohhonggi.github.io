@@ -24,7 +24,7 @@ last_modified_at: 2021-06-24
                         <li> 컴포넌트 제작</li>
                         <li> state </li>
                         <li> 이벤트</li>
-                    </ul>~
+                    </ul>
             </ol>
     </div>
 </body>
