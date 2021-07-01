@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-06-24T14:55:13+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">모각코 plan</title><link href="https://ohhondgi.github.io/blog/firstPosting/" rel="alternate" type="text/html" title="모각코 plan" /><published>2021-06-22T00:00:00+09:00</published><updated>2021-06-24T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/firstPosting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/firstPosting/">&lt;center&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-07-01T23:25:19+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">모각코 plan</title><link href="https://ohhondgi.github.io/blog/firstPosting/" rel="alternate" type="text/html" title="모각코 plan" /><published>2021-06-22T00:00:00+09:00</published><updated>2021-06-24T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/firstPosting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/firstPosting/">&lt;center&gt;
 &lt;body&gt;
     &lt;div style=&quot;text-align: left&quot;&gt;
         &lt;h3&gt;
@@ -35,4 +35,30 @@
 
 
 
-&lt;/center&gt;</content><author><name>Oh Hong Gi</name></author><category term="Blog" /><category term="Blog" /><category term="jekyll" /><category term="github" /><category term="git" /><summary type="html">md 파일로 github blog의 첫 posting 만들기</summary></entry></feed>
+&lt;/center&gt;</content><author><name>Oh Hong Gi</name></author><category term="Blog" /><category term="Blog" /><category term="jekyll" /><category term="github" /><category term="git" /><summary type="html">md 파일로 github blog의 첫 posting 만들기</summary></entry><entry><title type="html">1주차</title><link href="https://ohhondgi.github.io/blog/react-%EA%B3%B5%EB%B6%80-%EB%B0%8F-docker-%EC%84%B8%ED%8C%85/" rel="alternate" type="text/html" title="1주차" /><published>2021-06-22T00:00:00+09:00</published><updated>2021-06-24T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/react%20%EA%B3%B5%EB%B6%80%20%EB%B0%8F%20docker%20%EC%84%B8%ED%8C%85</id><content type="html" xml:base="https://ohhondgi.github.io/blog/react-%EA%B3%B5%EB%B6%80-%EB%B0%8F-docker-%EC%84%B8%ED%8C%85/">&lt;html&gt;
+    &lt;body&gt;
+        &lt;div style=&quot;text-align: left&quot;&gt;
+            &lt;h3&gt;
+                &lt;p&gt;&lt;/p&gt;
+            &lt;/h3&gt;
+                &lt;ol start=&quot;1&quot;&gt;
+                    &lt;li&gt;오늘의 계획 : 생활코딩을 통한 react 공부&lt;/li&gt;
+                        &lt;ul&gt;
+                            &lt;li&gt; 개발환경 구축&lt;/li&gt;
+                            &lt;li&gt; 컴포넌트 제작&lt;/li&gt;
+                            &lt;li&gt; state &lt;/li&gt;
+                            &lt;li&gt; 이벤트&lt;/li&gt;
+                        &lt;/ul&gt;
+                &lt;/ol&gt;
+                &lt;ol&gt;
+                    &lt;li&gt;오늘의 회고&lt;/li&gt;
+                        &lt;ul&gt;
+                            &lt;li&gt; mac m1에서 docker 연동의 호환성 문제 해결을 위해 2시간정도 소요. &lt;/li&gt;
+                            &lt;img src=&quot;/assets/images/week1/docker_success.png&quot; /&gt;
+                            &lt;li&gt; 생활코딩 react의 component 강의를 통해 react component example 사용&lt;/li&gt;
+                            &lt;img src=&quot;/assets/images/week1/component.png&quot; /&gt;
+                        &lt;/ul&gt;
+                &lt;/ol&gt;
+        &lt;/div&gt;
+    &lt;/body&gt;
+&lt;/html&gt;</content><author><name>Oh Hong Gi</name></author><category term="Blog" /><category term="Blog" /><category term="jekyll" /><category term="github" /><category term="git" /><summary type="html">react 공부 &amp; docker 환경세팅</summary></entry></feed>
