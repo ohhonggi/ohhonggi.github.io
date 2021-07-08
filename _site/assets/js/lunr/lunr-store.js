@@ -10,4 +10,10 @@ var store = [{
         "tags": ["Blog","jekyll","github","git"],
         "url": "/blog/react-%EA%B3%B5%EB%B6%80-%EB%B0%8F-docker-%EC%84%B8%ED%8C%85/",
         "teaser": "/assets/images/background.jpg"
+      },{
+        "title": "2주차",
+        "excerpt":"                                                                                                 오늘의 계획 : react 공부 &amp; 화면 구축                                                       axios-post 방식 공부                              back-end flask 서버 구축                              back-end 서버에 데이터 전송                              메인페이지 구축                                                                                오늘의 회고                                                       flask를 통해 back-end server 구현하였습니다.                                                           axios-post 방식으로 back-end server에 data를 전송하였습니다.                                                           위 방식을 통해 간단한 메인 페이지 구축하였습니다.                                                                                        ","categories": ["Blog"],
+        "tags": ["Blog","jekyll","github","git"],
+        "url": "/blog/react-%EA%B3%B5%EB%B6%80-&-%ED%99%94%EB%A9%B4%EA%B5%AC%EC%B6%95/",
+        "teaser": "/assets/images/background.jpg"
       }]
