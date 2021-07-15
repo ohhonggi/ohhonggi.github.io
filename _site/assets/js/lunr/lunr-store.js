@@ -16,4 +16,10 @@ var store = [{
         "tags": ["Blog","jekyll","github","git"],
         "url": "/blog/react-%EA%B3%B5%EB%B6%80-&-%ED%99%94%EB%A9%B4%EA%B5%AC%EC%B6%95/",
         "teaser": "/assets/images/background.jpg"
+      },{
+        "title": "3주차",
+        "excerpt":"오늘의 계획 : react 반응형 웹 만들기 &amp; docker 구축 css 문법 flex &amp; media Silicon_website 반응형으로 만들기 기존 docker에 celery &amp; redis 연동 오늘의 회고 inflearn 사이트의 css 문법인 flex, media를 학습하였습니다. . 학습한 문법을 기반으로 실리콘벨리 웹사이트를 반응형 웹으로 구현하였습니다. docker에 celery 연동과정 중 redis error로 인하여 수정중입니다....","categories": ["Blog"],
+        "tags": ["Blog","jekyll","github","git"],
+        "url": "/blog/Responsive_web/",
+        "teaser": "/assets/images/background.jpg"
       }]

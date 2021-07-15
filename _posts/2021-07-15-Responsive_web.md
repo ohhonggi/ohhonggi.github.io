@@ -24,7 +24,18 @@ last_modified_at: 2021-07-15
                         <li> Silicon_website 반응형으로 만들기</li>
                         <li> 기존 docker에 celery & redis 연동</li>
                     </ul>
-                </ol>
+            </ol>
+            <ol>
+                <li>오늘의 회고</li>
+                    <ul>
+                        <li> inflearn 사이트의 css 문법인 flex, media를 학습하였습니다. .</li>
+                        <img src = "/assets/images/week3/flex&media.png">
+                        <li> 학습한 문법을 기반으로 실리콘벨리 웹사이트를 반응형 웹으로 구현하였습니다. </li>
+                        <img src = "/assets/images/week3/Responsive_web.png">
+                        <li> docker에 celery 연동과정 중 redis error로 인하여 수정중입니다.</li>
+                        <img src = "/assets/images/week3/redis_error.png">
+                    </ul>
+            </ol>
         </div>
     </body>
 </html>
