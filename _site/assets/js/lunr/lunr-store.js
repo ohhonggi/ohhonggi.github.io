@@ -22,4 +22,10 @@ var store = [{
         "tags": ["Blog","jekyll","github","git"],
         "url": "/blog/Responsive_web/",
         "teaser": "/assets/images/background.jpg"
+      },{
+        "title": "4주차",
+        "excerpt":"                                                                                         AWS EC2를 이용한 가상 서버 구축                                               EC2 client 생성 및 ip 고정                           EC2 가상서버에서 docker 환경 세팅                           리버스 프록시 설정을 위한 nginx 포트 설정 &amp; frontend 와 backend 연동                                                  ","categories": ["Blog"],
+        "tags": ["Blog","jekyll","github","git"],
+        "url": "/blog/Docker-setting/",
+        "teaser": "/assets/images/background.jpg"
       }]
