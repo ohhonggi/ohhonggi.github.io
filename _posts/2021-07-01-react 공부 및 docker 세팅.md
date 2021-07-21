@@ -25,8 +25,6 @@ last_modified_at: 2021-07-01
                             <li> state </li>
                             <li> 이벤트</li>
                         </ul>
-                </ol>
-                <ol>
                     <li>오늘의 회고</li>
                         <ul>
                             <li> mac m1에서 docker 연동의 호환성 문제 해결을 위해 2시간정도 소요. </li>

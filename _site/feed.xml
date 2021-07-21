@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-07-22T02:36:54+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">4주차</title><link href="https://ohhondgi.github.io/blog/Docker-setting/" rel="alternate" type="text/html" title="4주차" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/Docker-setting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/Docker-setting/">&lt;html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://ohhondgi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ohhondgi.github.io/" rel="alternate" type="text/html" /><updated>2021-07-22T02:39:45+09:00</updated><id>https://ohhondgi.github.io/feed.xml</id><title type="html">atomic habits</title><subtitle>code description for CNU_MGK weekly</subtitle><author><name>Oh Hong Gi</name><email>5ghdrl@naver.com</email></author><entry><title type="html">4주차</title><link href="https://ohhondgi.github.io/blog/Docker-setting/" rel="alternate" type="text/html" title="4주차" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>https://ohhondgi.github.io/blog/Docker-setting</id><content type="html" xml:base="https://ohhondgi.github.io/blog/Docker-setting/">&lt;html&gt;
     &lt;body&gt;
         &lt;div style=&quot;text-align: left&quot;&gt;
             &lt;h3&gt;
@@ -34,12 +34,10 @@
                         &lt;li&gt; Silicon_website 반응형으로 만들기&lt;/li&gt;
                         &lt;li&gt; 기존 docker에 celery &amp;amp; redis 연동&lt;/li&gt;
                     &lt;/ul&gt;
-            &lt;/ol&gt;
-            &lt;ol&gt;
                 &lt;li&gt;오늘의 회고&lt;/li&gt;
                     &lt;ul&gt;
                         &lt;li&gt; inflearn 사이트의 css 문법인 flex, media를 학습하였습니다. .&lt;/li&gt;
-                        &lt;img src=&quot;/assets/images/ week3/flex&amp;amp;media.png&quot; /&gt;
+                        &lt;img src=&quot;/assets/images/week3/flex&amp;amp;media.png&quot; /&gt;
                         &lt;li&gt; 학습한 문법을 기반으로 실리콘벨리 웹사이트를 반응형 웹으로 구현하였습니다. &lt;/li&gt;
                         &lt;img src=&quot;/assets/images/week3/Responsive_web.png&quot; /&gt;
                         &lt;li&gt; docker에 celery 연동과정 중 redis error로 인하여 수정중입니다.&lt;/li&gt;
@@ -62,8 +60,6 @@
                             &lt;li&gt; back-end 서버에 데이터 전송&lt;/li&gt;
                             &lt;li&gt; 메인페이지 구축&lt;/li&gt;
                         &lt;/ul&gt;
-                &lt;/ol&gt;
-                &lt;ol&gt;
                     &lt;li&gt;오늘의 회고&lt;/li&gt;
                         &lt;ul&gt;
                             &lt;li&gt; flask를 통해 back-end server 구현하였습니다.&lt;/li&gt;
@@ -90,8 +86,6 @@
                             &lt;li&gt; state &lt;/li&gt;
                             &lt;li&gt; 이벤트&lt;/li&gt;
                         &lt;/ul&gt;
-                &lt;/ol&gt;
-                &lt;ol&gt;
                     &lt;li&gt;오늘의 회고&lt;/li&gt;
                         &lt;ul&gt;
                             &lt;li&gt; mac m1에서 docker 연동의 호환성 문제 해결을 위해 2시간정도 소요. &lt;/li&gt;
