@@ -28,4 +28,10 @@ var store = [{
         "tags": ["Blog","jekyll","github","git"],
         "url": "/blog/Docker-setting/",
         "teaser": "/assets/images/background.jpg"
+      },{
+        "title": "5주차",
+        "excerpt":"                                                                                         오늘의 계획 : 전체 css 정리 및 테스팅                                               css 수정                           베포 환경 내의 Docker 세팅 및 구동 테스팅                                       오늘의 회고                                               기존 css를 베포 환경에 맞게 수정하였습니다.                                                    베포 환경 내의 Docker 세팅 및 구동 테스팅을 완료하였습니다.                                                                            ","categories": ["Blog"],
+        "tags": ["Blog","jekyll","github","git"],
+        "url": "/blog/Final-Silicon/",
+        "teaser": "/assets/images/background.jpg"
       }]
