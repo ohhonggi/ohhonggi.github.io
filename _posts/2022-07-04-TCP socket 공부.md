@@ -27,9 +27,9 @@ last_modified_at: 2022-07-04
                     <li>오늘의 회고</li>
                         <ul>
                             <li> TCP socket 기반의 architecture 복습 완료 </li>
-                            <img src = "/assets/images/2022-week1/TCP_Architecture.png">
+                            <img src = "/assets/images/2022-summer/week1/TCP_Architecture.png">
                             <li>  spring boot를 활용한 TCP socket server 기반의 환경 구축 숙지</li>
-                            <img src = "/assets/images/2022-week1/TCP_환경세팅.png">
+                            <img src = "/assets/images/2022-summer/week1/TCP_환경세팅.png">
                         </ul>
                 </ol>
         </div>
