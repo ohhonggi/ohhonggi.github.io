@@ -82,7 +82,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
+*.icloud
 
 ### Windows ###
 Thumbs.db
@@ -95,3 +95,16 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+.history
+.ionide
+
