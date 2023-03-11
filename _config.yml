@@ -28,7 +28,7 @@ description:           >
   주니어 개발자로써 성장하기 위한 기술 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:               Oh's Currenttly Studing
+tagline:               Oh's Study List
 
 # A list of keywords for your blog
 keywords:              [coding, git, blog, hana, web]
@@ -36,7 +36,7 @@ keywords:              [coding, git, blog, hana, web]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/customLogo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -88,13 +88,13 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/background.jpg
+accent_color:          rgb(200,214,214)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(205,208,209)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
