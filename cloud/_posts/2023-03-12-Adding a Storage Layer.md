@@ -14,3 +14,14 @@ hide_last_modified: true
 
 ## Amazon S3
 
+
+## Storing data in Amazon S3
+
+
+## Moving data to and from Amazom S3
+
+
+## Choosing Regions for your architecture
+
+
+
