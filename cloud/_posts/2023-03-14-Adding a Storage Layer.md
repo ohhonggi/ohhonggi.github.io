@@ -215,8 +215,10 @@ S3 buckets의 objects에 모든 GET, LIST, PUT operation이 consistency가 지�
 #### 1. Amazon S3 and Amazon S3 Glacier torage classes
 
 <div class="image">
-  <img width="662" src="https://user-images.githubusercontent.com/33611439/225635156-1a587855-c151-4965-8072-049225a7cc88.png">
+  <img width="90%" src="https://user-images.githubusercontent.com/33611439/225635156-1a587855-c151-4965-8072-049225a7cc88.png">
 </div>
+
+
 
 ---
 ## Moving data to and from Amazom S3
