@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding a Storage Layer
+categories: [cloud]
 image:
     path: https://user-images.githubusercontent.com/33611439/224552408-9e7cc8ab-aa49-4e4e-b906-d532786045e5.png
 description: >

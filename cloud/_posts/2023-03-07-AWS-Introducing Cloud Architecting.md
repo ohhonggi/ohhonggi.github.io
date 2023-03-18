@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Cloud Architecting
+categories: [cloud]
 image:
     path: https://user-images.githubusercontent.com/33611439/223368623-20187405-9d44-4ef9-af1e-45b928f8d460.png
 description: >
