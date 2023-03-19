@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Greedy Algorithm
-categories: [algorithm]
-image:
-    path: 
+categories: algorithm
+tags: conception
 description: >
   해당 포스트는 Algorithm 중 그리디 알고리즘에 대해 공부한 내용을 정리한 글입니다.
 sitemap: false

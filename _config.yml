@@ -28,10 +28,10 @@ description:           >
   주니어 개발자로써 성장하기 위한 기술 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:               Oh's Study List
+tagline:               Double my value every year
 
 # A list of keywords for your blog
-keywords:              [coding, git, blog, hana, web]
+keywords:              [Cloud, Algorithm, AWS, GitHub]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,18 +46,6 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# Add links to the sidebar.
-menu:
-  - title:             Cloud
-    url:               /cloud/
-  - title:             Algorithm
-    url:               /algorithm/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -422,3 +410,8 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+# jekyll-feed settings
+feed:
+  categories:
+    - algorithm
