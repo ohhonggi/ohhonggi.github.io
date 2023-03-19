@@ -428,3 +428,13 @@ jekyll_compose:
 feed:
   categories:
     - algorithm
+
+# Tipue search setting
+tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
