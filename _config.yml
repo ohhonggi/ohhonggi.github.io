@@ -19,6 +19,8 @@ url:                   ohhonggi.github.io
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
+timezone:              Asia/Seoul
+
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Technical Blogs
 
@@ -70,7 +72,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -100,6 +102,14 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
+
+menu:
+  - title:  About
+    url:    /about/
+  - title:  Algorithm
+    url:    /algorithm
+  - title:  Cloud
+    url:    /cloud/
 
 defaults:
   # You can use this to provide a default accent color and background for
