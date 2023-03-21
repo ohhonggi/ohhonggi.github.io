@@ -20,9 +20,7 @@ hide_last_modified: true
 
 **Well-Architected Framework**를 설계할 때는 가이드를 통해 일관적인 접근법을 제공하며, 총 5가지 법칙으로 나뉩니다.
 
-<div style="text-align:center; margin-bottom:1%;">
-  <img width="80%" src="https://user-images.githubusercontent.com/33611439/223372268-47afe065-d029-46ad-9494-1ac0efe26707.png">
-</div>
+<img class="centered" width="80%" src="https://user-images.githubusercontent.com/33611439/223372268-47afe065-d029-46ad-9494-1ac0efe26707.png">
 
 - **Security** : 위험을 평가하고 완화하는 전략을 통해 비즈니스 가치를 제공하는 동시에 정보, 시스템 및 자산을 보호
 - **Operational Excellence** : 시스템을 실행하고 운영에 대한 통찰력을 확보하여 비즈니스 가치를 제공하며, 지원 프로세스 및 절차를 지속적으로 개선
@@ -45,16 +43,14 @@ AWS에서 Solution을 도출하기 위해 총 10가지의 Solution Designs에 �
 - ### Enable scalability
 Architecture 측면에서 수요의 변화에 대처할 수 있는지 파악
 
-<div style="text-align:center; margin-bottom:1%;">
-  <img width="90%" src="https://user-images.githubusercontent.com/33611439/223797773-669501c0-8260-433a-ba3a-6df4b850bc4e.png">
-</div>
+<img class="centered" width="90%" src="https://user-images.githubusercontent.com/33611439/223797773-669501c0-8260-433a-ba3a-6df4b850bc4e.png">
+
 
 Application 문제 발생 시 관리자가 직접 처리 : **Anti-pattern**
 {:.figcaption}
 
-<div style="text-align:center; margin-bottom:1%;">
-  <img width="90%" src="https://user-images.githubusercontent.com/33611439/223799037-8ba030d2-71f1-44f7-84a0-fa0f5294e004.png">
-</div>
+<img class="centered" width="90%" src="https://user-images.githubusercontent.com/33611439/223799037-8ba030d2-71f1-44f7-84a0-fa0f5294e004.png">
+
 
 Threshold를 설정 후, Application의 해당 수치 도달 시 Auto Scaling에게 Alarm 및 Scales out : **Best-practice**
 {:.figcaption}
@@ -62,9 +58,7 @@ Threshold를 설정 후, Application의 해당 수치 도달 시 Auto Scaling에
 - ### Automate your environment
 리소스를 모니터링하여 종료 및 구성의 자동화가 가능한지 파악
 
-<div style="text-align:center; margin-bottom:2%;">
-  <img width="90%" alt="스크린샷 2023-03-09 오전 3 37 53" src="https://user-images.githubusercontent.com/33611439/223805275-867de6c7-bc21-4928-9c70-ed03c5b1827c.png">
-</div>
+<img class="centered" width="90%" alt="스크린샷 2023-03-09 오전 3 37 53" src="https://user-images.githubusercontent.com/33611439/223805275-867de6c7-bc21-4928-9c70-ed03c5b1827c.png">
 
 Application의 Error시 유저가 직접 관리자에게 알리고, 관리자가 직접 해결 : **Anti-pattern** <br>
 Application Error시 CloudWatch 및 Auto Scaling의 Auto handling, 관리자에게 Alarm : **Best-practice**
@@ -83,9 +77,7 @@ Resource는 언제든지 사라질 수 있고, 대체될 수 있도록 Dynamic�
 - ### Use loosely coupled components
 독립적인 구성 요소를 가지는 Archtecture를 설계하였는지 파악
 
-<div style="text-align: center; margin-bottom:2%">
-  <img width="90%" src="https://user-images.githubusercontent.com/33611439/224224886-5c7e6161-e1bf-4374-bf4f-9859781f2a3d.png">
-</div>
+<img class="centered" width="90%" src="https://user-images.githubusercontent.com/33611439/224224886-5c7e6161-e1bf-4374-bf4f-9859781f2a3d.png">
 
 Component의 Scaling에 따라, 다른 Components에게 영향을 미침 : **Anti-pattern** <br>
 Elastic Load Balancer(ELB)를 통해 Scaling을 관리하여 Components를 독립화 : **Best-practice**
@@ -118,16 +110,12 @@ Database solution을 위한 고려사항
 - ### Avoid single points of failure
 primary와 secondary DB를 두어 동기화를 통해, failure에 대해 빠른 대처가 가능한지 파악
 
-<div style="text-align: center;">
-  <img width="70%" src="https://user-images.githubusercontent.com/33611439/224239480-f46a6d99-481f-45b4-b3e2-417f8e356df0.png">
-</div>
+<img class="centered" width="70%" src="https://user-images.githubusercontent.com/33611439/224239480-f46a6d99-481f-45b4-b3e2-417f8e356df0.png">
 
 DB server의 failure 발생 시, Application server도 failure가 발생 : **Anti-pattern**
 {:.figcaption}
 
-<div style="text-align: center; margin-bottom: 2%">
-  <img width="60%" src="https://user-images.githubusercontent.com/33611439/224240614-0b6d08a8-5067-4411-a70c-a7d0c60bcd93.png">
-</div>
+<img class="centered" width="60%" src="https://user-images.githubusercontent.com/33611439/224240614-0b6d08a8-5067-4411-a70c-a7d0c60bcd93.png">
 
 Primary와 secondary DB를 두어 data를 복제함으로써 failure에 대한 대처 진행 : **Best practice**
 {:.figcaption}
@@ -166,9 +154,7 @@ Cloud를 유연하게 설계할 수 있다는 이점을 활용하기 위해 효�
 - ### Use caching
 동일한 요청에 대해 Caching을 활용하여 성능 및 비용을 최적화하는지 파악
 
-<div style="text-align: center; margin-bottom: 2%">
-  <img width="90%" src="https://user-images.githubusercontent.com/33611439/224252804-1a31d665-2310-42fa-8ba0-33cee10c86e1.png">
-</div>
+<img class="centered" width="90%" src="https://user-images.githubusercontent.com/33611439/224252804-1a31d665-2310-42fa-8ba0-33cee10c86e1.png">
 
 동일한 요청의 반복적인 수행으로 인한 latency 및 cost 증가: **Anti-pattern** <br>
 CloudFront를 사용하여 처음 요청 이후 Caching된 Resource는 이후 요청 시 빠르게 제공 : **Best practice**

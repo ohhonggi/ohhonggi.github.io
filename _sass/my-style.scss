@@ -10,6 +10,15 @@ applause-button {
   }
 }
 
+// 3 column
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+.container {
+  display: flex;
+}	
+
 .clap-count {
   @extend h4;
   color: var(--accent-color);
@@ -64,10 +73,6 @@ applause-button {
 }
 
 // Image centering
-
-.text-align-center {
-  text-align: center;
-}
 
 img.centered {
   display: block;
@@ -162,4 +167,29 @@ pre {
 
 .nav-span{
   flex: none;
+}
+
+
+// callout
+.callout.callout_info {
+  --background: #e3edf2;
+  --title: #46b8da;
+  --border: #5bc0de
+}
+
+.callout .callout-heading {
+  color: var(--title,--text);
+  margin-bottom: calc(1.33rem * .5);
+}
+
+.callout .callout-icon {
+  float: left;
+  margin-right: 0.5rem;
+}
+
+.callout.callout {
+  background: var(--background);
+  border-color: var(--border);
+  color: var(--text);
+  padding: 1rem
 }
