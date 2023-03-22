@@ -50,6 +50,43 @@ hide_last_modified: true
   1. 여벌 체육복을 가져온 학생은 체육복을 도난당할 수 있음
   2. 도난당한 학생 정보가 담긴 배열(lost)과, 여벌의 체육복을 가져온 학생들의 정보가 담긴 배열(reserve)은 체격순으로 정렬되어 있지 않음
 
+- **작성 코드**
+~~~<java>
+public int solution(int n, int[] lost, int[] reserve) {
+    int answer = n-lost.length;
+
+    // 정렬하지 않을 경우, 최악의 시간복잡도 n^2 가능성
+    Arrays.sort(lost);
+    Arrays.sort(reserve);
+    
+    // 여벌 체육복 존재, 자신의 체육복을 도난한 경우 (x)
+    for (int i = 0; i<reserve.length; i++){
+        for (int j = 0; j<lost.length; j++){
+            if (reserve[i] == lost[j]){
+                reserve[i] = -1;
+                lost[j] = -1;
+                answer++;
+                break;
+            }
+        }
+    }
+
+    // 그리디 알고리즘 해결 방법 적용
+    for (int i = 0; i<lost.length; i++){
+        for (int j = 0; j<reserve.length; j++){                
+            if ( Math.abs(lost[i] - reserve[j]) == 1){
+                answer++;
+                reserve[j] = -1;
+                break;
+            }
+        }
+    }
+    
+    return answer;
+}
+~~~
+
+
 ### Reference
 <a href="https://www.youtube.com/watch?v=2zjoKjt97vQ"> 이코테 2021 강의 몰아보기 - 2. 그리디 & 구현 </a> <br>
 <a href="https://hanamon.kr/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%83%90%EC%9A%95%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-greedy-algorithm/"> HANAMON - [알고리즘] 탐욕 알고리즘(Greedy Algorithm) </a>
