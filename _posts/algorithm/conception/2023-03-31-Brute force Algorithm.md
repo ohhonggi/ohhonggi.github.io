@@ -33,7 +33,7 @@ hide_last_modified: true
 DFS와 BFS는 추후 따로 다룰 예정입니다.
 {:.note}
 
-### 📄 Brute Force Algorithm 문제 : <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java"> 백준 ~ 문제 </a>
+### 📄 Brute Force Algorithm 문제 : <a href="https://www.acmicpc.net/problem/18511"> 백준 큰 수 구성하기 문제 </a>
 
 
 
