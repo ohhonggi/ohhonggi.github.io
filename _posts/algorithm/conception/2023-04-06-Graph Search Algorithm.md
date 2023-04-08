@@ -14,7 +14,8 @@ hide_last_modified: true
 
 
 ### 🔑 Graph Algorithm 종류
-
+- DFS
+- BFS
 
 ### 🔑 DFS Algorithm 풀이 방법
 
