@@ -2,7 +2,7 @@
 layout: post
 title: Brute force Algorithm
 categories: algorithm
-tags: conception, Brute force
+tags: conception
 description: >
   해당 포스트는 Algorithm 중 완전탐색 알고리즘에 대해 공부한 내용을 정리한 글입니다.
 sitemap: false
