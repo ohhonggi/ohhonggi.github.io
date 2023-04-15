@@ -177,6 +177,12 @@ pre {
   --border: #5bc0de
 }
 
+.callout.callout_warning {
+  --background: #fcf8f2;
+  --title: #eea236;
+  --border: #f0ad4e;
+}
+
 .callout .callout-heading {
   color: var(--title,--text);
   margin-bottom: calc(1.33rem * .5);
@@ -192,4 +198,9 @@ pre {
   border-color: var(--border);
   color: var(--text);
   padding: 1rem
+}
+
+.margin {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
