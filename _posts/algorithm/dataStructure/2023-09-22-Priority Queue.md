@@ -2,7 +2,7 @@
 layout: post
 title: Priority Queue
 categories: algorithm
-tags: data_structure
+tags: data-structure
 description: >
   해당 포스트는 자료구조의 우선순위 큐에 대해서 정리한 글입니다.
 

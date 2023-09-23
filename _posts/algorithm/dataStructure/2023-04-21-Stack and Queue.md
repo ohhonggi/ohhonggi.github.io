@@ -2,7 +2,7 @@
 layout: post
 title: Stack & Queue
 categories: algorithm
-tags: conception
+tags: data-structure
 description: >
   해당 포스트는 Do-It-자료구조-Algorithm 책 내용 중 Stack과 Queue에 대해 공부한 내용을 정리한 글입니다.
 sitemap: false
